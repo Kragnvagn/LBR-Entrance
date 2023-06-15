@@ -1,0 +1,15 @@
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\bin\Debug\TRANS_V2_2017.exe.config
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\bin\Debug\TRANS_V2_2017.exe
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\bin\Debug\TRANS_V2_2017.pdb
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\MainWindow.g.cs
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\App.g.cs
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017_MarkupCompile.cache
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017_MarkupCompile.lref
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\App.baml
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\MainWindow.baml
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.g.resources
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.Properties.Resources.resources
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.csproj.GenerateResource.cache
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.csproj.CoreCompileInputs.cache
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.exe
+C:\Users\ryan.lopez\source\repos\TRANS_V2_2017\TRANS_V2_2017\obj\Debug\TRANS_V2_2017.pdb
